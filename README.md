@@ -26,3 +26,22 @@ Hello bello
 <img width="" height="" src="./png/바꾸기1.png">
 
 <img width="" height="" src="./png/바꾸기2.png">
+
+## 9주차 과제
+
+기본
+
+<img width="" height="" src="./png/기본.png">
+
+이미지 바꾸기
+
+<img width="" height="" src="./png/이미지바꾸기.png">
+
+넓이
+
+<img width="" height="" src="./png/넓이.png">
+
+높이
+
+<img width="" height="" src="./png/높이.png">
+
